@@ -8,7 +8,7 @@
 </div>
 
 <p align="center">
-  <img src="docs/hero.png" width="720" alt="חלון המאתר של ZePo">
+  <img src="hero.png" width="720" alt="חלון המאתר של ZePo">
 </p>
 
 <div align="right">
